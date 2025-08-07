@@ -6,8 +6,8 @@ An interactive dashboard for thematic and AI-driven ESG analysis of stock portfo
 
 ### 🔮 Live Application Preview
 
-(![portfolio analysis engine](https://github.com/user-attachments/assets/f99213a0-096a-4a75-aed9-83f5ba43ca2c)
-)
+![portfolio analysis engine](https://github.com/user-attachments/assets/f99213a0-096a-4a75-aed9-83f5ba43ca2c)
+
 
 ---
 
@@ -48,8 +48,8 @@ To run this application on your local machine, please follow these steps:
 
 **2. Clone the Repository:**
 ```bash
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-cd your-repository-name
+git clone https://github.com/rjo1604/Portfolio-Analysis-Dashboard.git
+cd Portfolio-Analysis-Dashboard
 ```
 
 **3. Set Up the Environment:**
