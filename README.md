@@ -6,7 +6,8 @@ An interactive dashboard for thematic and AI-driven ESG analysis of stock portfo
 
 ### 🔮 Live Application Preview
 
-![portfolio analysis engine](https://github.com/user-attachments/assets/f99213a0-096a-4a75-aed9-83f5ba43ca2c)
+![portfolio analysis engine](https:![Uploading Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter (1).gif…]()
+//github.com/user-attachments/assets/f99213a0-096a-4a75-aed9-83f5ba43ca2c)
 
 
 ---
