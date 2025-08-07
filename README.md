@@ -8,7 +8,8 @@ An interactive dashboard for thematic and AI-driven ESG analysis of stock portfo
 
 *(**Action Required:** Take a high-quality screenshot or, even better, a short screen recording/GIF of your running application and place it here. This is the most important part of the README!)*
 
-![Dashboard Screenshot](URL_TO_YOUR_SCREENSHOT_OR_GIF_HERE)
+![Dashboard Screenshot](![portfolio analysis engine](https://github.com/user-attachments/assets/f99213a0-096a-4a75-aed9-83f5ba43ca2c)
+)
 
 ---
 
