@@ -1,6 +1,6 @@
 # Portfolio Intelligence Dashboard 🔬
 
-An interactive dashboard for thematic and AI-driven ESG analysis of stock portfolios. This project was built as a prototype to showcase modern data application development, creative problem-solving for data gaps, and the integration of Large Language Models (LLMs) for decision support, inspired by the analytical tools used at leading financial firms like MSCI.
+An interactive dashboard for thematic and AI-driven ESG analysis of stock portfolios. This project was built as a prototype to showcase modern data application development, creative problem-solving for data gaps, and the integration of Large Language Models (LLMs) for decision support, inspired by the analytical tools used at leading financial firms.
 
 ---
 
